@@ -132,7 +132,7 @@ def adding_to_dennis
         }
      }
 
-		 programmer_hash[:alan_kay][:known_for] = alans_new_info
+		 programmer_hash[:dennis_ritchie][:languages] = "Assembly"
 		 return programmer_hash
 
 end
